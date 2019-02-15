@@ -8,7 +8,7 @@
 * use the command $ git clone https://github.com/IanJeffKajiji/Triangle-Tracker.git
 * This will clone the repository in a local folder
 ## BDD
------------------------------------|------------------|-----------------------|
+
   Behaviour                        |  Input           |    Output             |
 -----------------------------------|------------------|-----------------------|
   User enters three equal sides    |  4,4,4           | Equilateral           |   |
