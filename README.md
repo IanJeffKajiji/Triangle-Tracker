@@ -7,7 +7,7 @@
 * using Unix OS, open the terminal
 * use the command $ git clone https://github.com/IanJeffKajiji/Triangle-Tracker.git
 * This will clone the repository in a local folder
-##BDD
+## BDD
 |-----------------------------------|------------------|-----------------------|
 |  Behaviour                        |  Input           |    Output             |
 |-----------------------------------|------------------|-----------------------|
