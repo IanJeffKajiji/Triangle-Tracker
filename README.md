@@ -8,17 +8,17 @@
 * use the command $ git clone https://github.com/IanJeffKajiji/Triangle-Tracker.git
 * This will clone the repository in a local folder
 ## BDD
-|-----------------------------------|------------------|-----------------------|
-|  Behaviour                        |  Input           |    Output             |
-|-----------------------------------|------------------|-----------------------|
-|  User enters three equal sides    |  4,4,4           | Equilateral           |   |
-|-----------------------------------|------------------|-----------------------|                               |
-|  User enters two equal sides      |  4,4,2           | isosceles             |
-|-----------------------------------|------------------|-----------------------|
-|  User enters no equal sides       |  3,4,5           | scalene               |
-|-----------------------------------|------------------|-----------------------|
-|  User does not enter a number     | th,d,4           | not a triangle        |
-|-----------------------------------|------------------|-----------------------|                      |
+-----------------------------------|------------------|-----------------------|
+  Behaviour                        |  Input           |    Output             |
+-----------------------------------|------------------|-----------------------|
+  User enters three equal sides    |  4,4,4           | Equilateral           |   |
+-----------------------------------|------------------|-----------------------|                               |
+  User enters two equal sides      |  4,4,2           | isosceles             |
+-----------------------------------|------------------|-----------------------|
+  User enters no equal sides       |  3,4,5           | scalene               |
+-----------------------------------|------------------|-----------------------|
+  User does not enter a number     | th,d,4           | not a triangle        |
+-----------------------------------|------------------|-----------------------|                      |
 ## Known Bugs
 {Currently there are no known bugs and unresolved issues. }
 ## Technologies Used
