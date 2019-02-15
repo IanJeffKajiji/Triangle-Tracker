@@ -5,7 +5,10 @@ function track() {
   var sideC = parseFloat(prompt("Enter value of adjacent"));
   var triangle = ["Equilateral", "isosceless", "scalene", "Not a triangle"];
 
-if (sideA === sideB && sideB === sideC) {
+if (sideA <= 0 || sideB <= 0 || sideC <=0) {
+  alert("invalid character");
+}
+else{if (sideA === sideB && sideB === sideC) {
   alert (triangle[0]);
 }
 else if(sideA===sideB || sideB===sideC || sideA===sideC) {
@@ -14,7 +17,7 @@ else if(sideA===sideB || sideB===sideC || sideA===sideC) {
 else if(sideA!==sideB || sideB!==sideC || sideA!==sideC) {
   alert(triangle[2]);
 }
-else if(isNaN(sideA) || isNan(sideB) || isNaN(sideC)) {
+else {
   alert(triangle[3]);
-}
+}}
 };
