@@ -1,9 +1,12 @@
 body {
   text-align: center;
   background-color: lightblue;
+  font: sans-serif;
+  font-size: 18px;
 }
 h1 {
   color: blue;
+  font-size: 32px;
 }
 h2 {
   color: blue;
