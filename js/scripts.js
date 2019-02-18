@@ -14,10 +14,10 @@ else if (sideA === sideB && sideB === sideC) {
 else if(sideA===sideB || sideB===sideC || sideA===sideC) {
   alert (triangle[1]);
 }
-if (sideA!==sideB || sideB!==sideC || sideA!==sideC) {
-  alert(triangle[2]);
-}
 else if (isNaN(sideA) || isNaN(sideB) || isNaN(sideC)) {
   alert(triangle[3]);
+}
+else {
+  alert(triangle[2]);
 }
 };
